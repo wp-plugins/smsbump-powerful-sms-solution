@@ -1,0 +1,106 @@
+#smsbump-container {
+	width:100%;
+	height:auto;
+}
+
+#smsbump-container h1 {
+	margin-bottom:30px;
+}
+
+#smsbump-container tr td:first-child {
+	width: 35%;
+}
+
+.numbers_scrollbar {
+	width:338px;
+	height:100px;
+	overflow: scroll;
+	background: #fff;
+}
+
+.numbers_scrollbar > ul {
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+th .help {
+	font-weight: normal;
+	font-size: 11px;
+	float: left;
+	margin-top: 5px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.smsbump_warning {
+	background:#ff0000;
+}
+
+#login-container {
+	display: block;
+	margin: 0 auto;
+	width: 650px;
+	text-align:center;
+}
+
+#login-container a {
+	color: #0073aa;
+}
+
+#login-container hr {
+	border-top: 2px solid #D3D8DF;
+}
+
+#login-container form {
+	width:400px;
+	display:block;
+	margin: 0 auto;
+}
+
+#login-container h3 {
+	font-size:26px;
+}
+
+#login-container p {
+	font-size:16px;
+}
+
+#submitdiv h3 {
+	font-size:18px;
+	margin-top: 0;
+	margin-bottom: 10px !important;
+	padding: 10px;
+}
+
+#submitdiv .btn-primary {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#submitdiv input[type="text"] {
+	width: 46%;
+	margin: 8px 2%;
+	float: left;
+}
+
+#submitdiv span.input-label {
+	width: 50%;
+	text-align: right;
+	float: left;
+	width: 36%;
+	margin: 15px 2%;
+}
+
+.js .widget .widget-top, .js .postbox .hndle {
+  cursor:inherit;
+}
+
+.dropdown-menu>li>a {
+  cursor: pointer;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+}

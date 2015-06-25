@@ -10,7 +10,49 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Powerful extension that allows you to send SMS, MMS, USSD and Voice messages to your customers effortlessly.
+= Send multi-channel messaging =
+
+The plugin allows you to send SMS, MMS, USSD and Voice messages to your users.
+
+= Cloud reliable delivery =
+
+Our priority plan uses the best route to send your messages instantly.
+
+= 200+ countries =
+
+Truly international delivery to almost any country in the world.
+
+= Any platform =
+
+Swift integration in any platform - any app or site, it just needs to be on the internet.
+
+= Send brand messages =
+
+The Premium Plan enables you to specify the name of the message sender.
+
+= Manage your recipients =
+
+Send messages to either all of your users, some of your users or other phone numbers.
+
+= Send messages on registration =
+
+Send messages to your customers to confirm their registration.
+
+= SMS notification when a new comment is posted =
+
+As a website administrator you can receive a SMS notification when a new comment on the post is waiting for your approval.
+
+= WooCommerce compatibility =
+
+Stay up-to-date with your store's traffic and receive text messages when a customer registers to your store or places an order.
+
+= Free sign up + bonus credits =
+
+Free Sign Up and bonus credits provided at registration.
+
+= Free support =
+
+Direct support from the specialists behind the platform.
 
 An online demo can be found at http://smsbump.wp.isenselabs.com
 
